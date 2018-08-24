@@ -9,7 +9,7 @@ new_hash = {}
  new_hash[type][:style] << type_of_languages
 
   
-  #binding.pry
+  binding.pry
    end
   end
   new_hash    
